@@ -1,6 +1,8 @@
 # Machine Learning for Trading: From Idea to Execution
+用于交易的机器学习：从想法到执行
 
 Algorithmic trading relies on computer programs that execute algorithms to automate some or all elements of a trading strategy. **Algorithms** are a sequence of steps or rules designed to achieve a goal. They can take many forms and facilitate optimization throughout the investment process, from idea generation to asset allocation, trade execution, and risk management.
+   算法交易依赖于执行算法以自动完成交易策略的部分或全部要素的计算机程序。**算法**是为实现目标而设计的一系列步骤或规则。它们可以有多种形式，并在整个投资过程中促进优化，从创意生成到资产配置、交易执行和风险管理。
 
 **Machine learning** (ML) involves algorithms that learn rules or patterns from data to achieve a goal such as minimizing a prediction error. The examples in this book will illustrate how ML algorithms can extract information from data to support or automate key investment activities. These activities include observing the market and analyzing data to form expectations about the future and decide on placing buy or sell orders, as well as managing the resulting portfolio to produce attractive returns relative to the risk.
 
